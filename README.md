@@ -1,8 +1,8 @@
 # vim
 
-Installation
+Installation  
   curl "https://github.com/xxzhwx/vim/blob/master/script.sh" | bash -s install
 
-Update
+Update  
   curl "https://github.com/xxzhwx/vim/blob/master/script.sh" | bash -s update
 
