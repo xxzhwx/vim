@@ -96,7 +96,7 @@ set incsearch
 set showmatch
 set matchtime=1
 
-set listchars=tab:→\ ,trail:·
+set listchars=tab:>\ ,trail:·
 set list
 
 "set mouse=a
